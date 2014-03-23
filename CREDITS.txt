@@ -1,0 +1,18 @@
+CREDITS.txt
+
+  NBTaskFocus Task-focused interface for NetBeans IDE 2011
+  (last modified 22 Oct 2011)
+by +Tushar Joshi+ (tusharvjoshi at gmail dot com)
+Released under the MIT License (see LICENSE.txt)
+
+NBTaskFocus is a set of modules for NetBeans IDE to provide
+task-focused development.
+
+Author and Creator
+Tushar Joshi (tusharvjoshi at gmail.com)
+
+Significant Code Contributors:
+Your Name (yourmail at company dot com)
+
+Enhancement suggestions and bug reports:
+Steven Yi, John Muczynski (johnstosh at gmail.com), Tony Dietrich (tony at dietrich.org.uk), Rohan Ranade (rohanranade at java.net), Ulrich Cech (developer at cech-home.de)

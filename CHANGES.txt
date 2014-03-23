@@ -1,0 +1,21 @@
+2011-11-08
+* Support for Synchronized Editor with Views option for Project Context, 
+Files Context and Task Details panels.
+
+2011-10-26
+* Task Details panel added with Project node concept (#3457)
+* Files Context panel added (#3458)
+
+2011-10-25
+* Task List auto save feature added (#3454)
+
+2011-10-24
+* Added sticky task item concept (#3453)
+
+2011-10-21
+* Added Project Context panel
+* Updated display properties shown in Plugins dialog
+
+2011-10-13
+* Double clicking task toggles its state (Activate/Deactivate)
+* Added default aaction to Task Item to activate it
