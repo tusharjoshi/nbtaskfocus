@@ -4,3 +4,8 @@
 *.jar
 *.war
 *.ear
+
+# NetBeans 
+private/
+build/
+dist/

@@ -1,3 +1,8 @@
+2014-03-23
+* Tested the code with NetBeans IDE 8.0 and JDK 1.7, 
+made changes needed to make it work, all automatic changes.
+* Shifted the codebase to github.com
+
 2011-11-08
 * Support for Synchronized Editor with Views option for Project Context, 
 Files Context and Task Details panels.

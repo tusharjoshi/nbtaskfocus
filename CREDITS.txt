@@ -9,10 +9,14 @@ NBTaskFocus is a set of modules for NetBeans IDE to provide
 task-focused development.
 
 Author and Creator
-Tushar Joshi (tusharvjoshi at gmail.com)
+# Tushar Joshi (tusharvjoshi at gmail.com)
 
 Significant Code Contributors:
-Your Name (yourmail at company dot com)
+# Your Name (yourmail at company dot com)
 
 Enhancement suggestions and bug reports:
-Steven Yi, John Muczynski (johnstosh at gmail.com), Tony Dietrich (tony at dietrich.org.uk), Rohan Ranade (rohanranade at java.net), Ulrich Cech (developer at cech-home.de)
+# Steven Yi, 
+# John Muczynski (johnstosh at gmail.com), 
+# Tony Dietrich (tony at dietrich.org.uk), 
+# Rohan Ranade (rohanranade at java.net), 
+# Ulrich Cech (developer at cech-home.de)
