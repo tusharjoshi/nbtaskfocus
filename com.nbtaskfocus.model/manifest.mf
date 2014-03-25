@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-OpenIDE-Module: com.nbtaskfocus.model/1
+OpenIDE-Module: com.nbtaskfocus.model/2
 OpenIDE-Module-Install: com/nbtaskfocus/model/Installer.class
 OpenIDE-Module-Localizing-Bundle: com/nbtaskfocus/model/Bundle.properties
 OpenIDE-Module-Specification-Version: 1.3

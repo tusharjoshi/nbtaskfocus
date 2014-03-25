@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-OpenIDE-Module: com.nbtaskfocus.core/1
+OpenIDE-Module: com.nbtaskfocus.core/2
 OpenIDE-Module-Install: com/nbtaskfocus/core/Installer.class
 OpenIDE-Module-Localizing-Bundle: com/nbtaskfocus/core/Bundle.properties
 OpenIDE-Module-Requires: org.openide.windows.WindowManager
